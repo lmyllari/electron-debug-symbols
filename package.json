@@ -7,7 +7,7 @@
     "url": "https://github.com/Ivshti/electron-debug-symbols"
   },
   "scripts": {
-    "postinstall": "./fetch.sh 0.29.2"
+    "postinstall": "./fetch.sh 1.6.2"
   },
   "main": "index.js",
   "dependencies": {
